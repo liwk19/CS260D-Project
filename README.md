@@ -20,7 +20,7 @@ Here we introduce how to reproduce our results by simply changing the settings i
 
 If you want to pre-train one model on all training kernels, please activate lines 40-41 and deactivate line 42; activate lines 58-63 and deactivate line 66; set transfer_learning in line 430 to False. Then running "python src/main.py" can pre-train the model for 1,500 epochs. Please remember the printed location where the model is saved. After pre-training, you need to set model_path in line 327 to the model location, so that you can use the pre-trained model.
 
-If you want to pre-train one model on each training kernel so that you can get 33 models, please deactivate lines 40~41 and activate line 42; deactivate lines 58~63 and activate line 66; change line 66 to the 33 kernels one by one (the 33 kernels' names are in "ensemble_KERNEL" in line 439~443) and run "python src/main.py". In this case, you do not need to care about the model saving location, because the location is fixed.
+If you want to pre-train one model on each training kernel so that you can get 33 models, please deactivate lines 40-41 and activate line 42; deactivate lines 58-63 and activate line 66; change line 66 to the 33 kernels one by one (the 33 kernels' names are in "ensemble_KERNEL" in line 439~443) and run "python src/main.py". In this case, you do not need to care about the model saving location, because the location is fixed.
 
 ##### 2, Fine-tune the one model pre-trained on all training kernels
 
