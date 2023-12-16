@@ -1,0 +1,150 @@
+['./polly/databases/bottleneck/atax_result_3.db', './polly/databases/bottleneck/archive/atax_result_2.db', './polly/databases/bottleneck/archive/atax_result.db', './polly/databases/exhaustive/atax_result_3.db', './polly/databases/exhaustive/archive/atax_result_2.db', './polly/databases/exhaustive/archive/atax_result.db', './polly/databases/hybrid/atax_result_3.db', './polly/databases/hybrid/archive/atax_result_2.db', './polly/databases/hybrid/archive/atax_result.db']
+118462.0 {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+61999.0 {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+34793.0 {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+34765.0 {'__PARA__L0': 1, '__PARA__L0_0': 124, '__PARA__L0_1': 1, '__PIPE__L0': 'off', '__TILE__L0': 1}
+28037.0 {'__PARA__L0': 1, '__PARA__L0_0': 124, '__PARA__L0_1': 2, '__PIPE__L0': 'off', '__TILE__L0': 1}
+20729.0 {'__PARA__L0': 1, '__PARA__L0_0': 124, '__PARA__L0_1': 31, '__PIPE__L0': 'off', '__TILE__L0': 1}
+13254.0 {'__PARA__L0': 4, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+13254.0
+perf: 0.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 116}
+perf: 0.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 124, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 124, '__PARA__L0_1': 124, '__PIPE__L0': '', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 124, '__PARA__L0_1': 124, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 16, '__PARA__L0_1': 124, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 2, '__PARA__L0_1': 124, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 31, '__PARA__L0_1': 124, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 124, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 4, '__PARA__L0_1': 124, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 124, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 32, '__PIPE__L0': '', '__TILE__L0': 4}
+perf: 0.0 for point: {'__PARA__L0': 116, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 16, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 16, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 0.0 for point: {'__PARA__L0': 16, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 0.0 for point: {'__PARA__L0': 2, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 2, '__PARA__L0_0': 124, '__PARA__L0_1': 124, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 29, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 29, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 0.0 for point: {'__PARA__L0': 29, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 0.0 for point: {'__PARA__L0': 32, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 32, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 0.0 for point: {'__PARA__L0': 4, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 4, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 0.0 for point: {'__PARA__L0': 4, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 0.0 for point: {'__PARA__L0': 4, '__PARA__L0_0': 124, '__PARA__L0_1': 124, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 8, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 8, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 0.0 for point: {'__PARA__L0': 8, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 13254.0 for point: {'__PARA__L0': 4, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+perf: 20722.0 for point: {'__PARA__L0': 8, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+perf: 20729.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 124, '__PARA__L0_1': 31, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 21073.0 for point: {'__PARA__L0': 2, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+perf: 24209.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 124, '__PARA__L0_1': 4, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 25204.0 for point: {'__PARA__L0': 29, '__PARA__L0_0': 31, '__PARA__L0_1': 124, '__PIPE__L0': '', '__TILE__L0': 2} (GNN found, cg parallelization not applied)
+perf: 25302.0 for point: {'__PARA__L0': 8, '__PARA__L0_0': 31, '__PARA__L0_1': 124, '__PIPE__L0': 'off', '__TILE__L0': 1} (GNN found, cg parallelization not applied)
+perf: 25539.0 for point: {'__PARA__L0': 29, '__PARA__L0_0': 31, '__PARA__L0_1': 124, '__PIPE__L0': '', '__TILE__L0': 4} (GNN found, cg parallelization not applied)
+perf: 25539.0 for point: {'__PARA__L0': 29, '__PARA__L0_0': 31, '__PARA__L0_1': 124, '__PIPE__L0': '', '__TILE__L0': 1} (GNN found, cg parallelization not applied)
+perf: 26181.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 124, '__PARA__L0_1': 8, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 27225.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 31, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 27225.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 31, '__PIPE__L0': 'off', '__TILE__L0': 116}
+perf: 28037.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 124, '__PARA__L0_1': 2, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 28260.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 31, '__PARA__L0_1': 32, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 28385.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 31, '__PARA__L0_1': 4, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 28724.0 for point: {'__PARA__L0': 8, '__PARA__L0_0': 31, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 1} (GNN found)
+perf: 30125.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 32, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 30232.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 31, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 30357.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 4, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 30357.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 4, '__PIPE__L0': 'off', '__TILE__L0': 116}
+perf: 30464.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 31, '__PARA__L0_1': 8, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 30589.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 116}
+perf: 30738.0 for point: {'__PARA__L0': 32, '__PARA__L0_0': 16, '__PARA__L0_1': 124, '__PIPE__L0': 'off', '__TILE__L0': 2} (GNN found, invalid, cg parallelization not applied)
+perf: 31633.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 124, '__PARA__L0_1': 32, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 31749.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 8, '__PIPE__L0': 'off', '__TILE__L0': 116}
+perf: 31981.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 31, '__PARA__L0_1': 2, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 32329.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 32561.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 8, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 33953.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 2, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 33953.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 2, '__PIPE__L0': 'off', '__TILE__L0': 116}
+perf: 34653.0 for point: {'__PARA__L0': 2, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 34765.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 124, '__PARA__L0_1': 1, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 34793.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+perf: 35261.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 31, '__PIPE__L0': '', '__TILE__L0': 4}
+perf: 35261.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 31, '__PIPE__L0': 'off', '__TILE__L0': 4}
+perf: 35535.0 for point: {'__PARA__L0': 8, '__PARA__L0_0': 31, '__PARA__L0_1': 31, '__PIPE__L0': 'off', '__TILE__L0': 1} (GNN found)
+perf: 35668.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 31, '__PARA__L0_1': 31, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 38393.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 4, '__PIPE__L0': '', '__TILE__L0': 4}
+perf: 38393.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 4, '__PIPE__L0': 'off', '__TILE__L0': 4}
+perf: 38625.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 16, '__PIPE__L0': '', '__TILE__L0': 4}
+perf: 38625.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 4}
+perf: 39048.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 31, '__PARA__L0_1': 1, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 39785.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 8, '__PIPE__L0': '', '__TILE__L0': 4}
+perf: 39785.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 8, '__PIPE__L0': 'off', '__TILE__L0': 4}
+perf: 41145.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 1, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 41145.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 1, '__PIPE__L0': 'off', '__TILE__L0': 116}
+perf: 41777.0 for point: {'__PARA__L0': 16, '__PARA__L0_0': 124, '__PARA__L0_1': 16, '__PIPE__L0': '', '__TILE__L0': 2} (GNN found)
+perf: 41989.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 2, '__PIPE__L0': '', '__TILE__L0': 4}
+perf: 41989.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 2, '__PIPE__L0': 'off', '__TILE__L0': 4}
+perf: 43526.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 31, '__PIPE__L0': '', '__TILE__L0': 2}
+perf: 43526.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 31, '__PIPE__L0': 'off', '__TILE__L0': 2}
+perf: 43572.0 for point: {'__PARA__L0': 16, '__PARA__L0_0': 124, '__PARA__L0_1': 16, '__PIPE__L0': '', '__TILE__L0': 1} (GNN found, invalid, cg parallelization not applied)
+perf: 44393.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 124, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 45092.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 32, '__PIPE__L0': 'off', '__TILE__L0': 116}
+perf: 45556.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 116}
+perf: 46658.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 4, '__PIPE__L0': '', '__TILE__L0': 2}
+perf: 46658.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 4, '__PIPE__L0': 'off', '__TILE__L0': 2}
+perf: 46716.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 31, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 46890.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 2}
+perf: 48050.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 8, '__PIPE__L0': '', '__TILE__L0': 2}
+perf: 48050.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 8, '__PIPE__L0': 'off', '__TILE__L0': 2}
+perf: 48224.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 16, '__PARA__L0_1': 31, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 49181.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 1, '__PIPE__L0': 'off', '__TILE__L0': 4}
+perf: 49848.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 32, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 49848.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 4, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 49848.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 4, '__PIPE__L0': 'off', '__TILE__L0': 116}
+perf: 51356.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 16, '__PARA__L0_1': 32, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 51356.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 16, '__PARA__L0_1': 4, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 51820.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 52052.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 8, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 53183.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 32, '__PIPE__L0': 'off', '__TILE__L0': 4}
+perf: 53328.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 16, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 53444.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 2, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 53560.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 16, '__PARA__L0_1': 8, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 53647.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 16, '__PIPE__L0': '', '__TILE__L0': 4}
+perf: 53647.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 4}
+perf: 54952.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 16, '__PARA__L0_1': 2, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 57446.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 32, '__PARA__L0_1': 1, '__PIPE__L0': 'off', '__TILE__L0': 2}
+perf: 58055.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 4, '__PIPE__L0': 'off', '__TILE__L0': 4}
+perf: 60634.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 4, '__PARA__L0_1': 31, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 60636.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 1, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 61506.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 32, '__PIPE__L0': '', '__TILE__L0': 2}
+perf: 61506.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 32, '__PIPE__L0': 'off', '__TILE__L0': 2}
+perf: 61825.0 for point: {'__PARA__L0': 2, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 61970.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 16, '__PIPE__L0': '', '__TILE__L0': 2}
+perf: 61970.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 2}
+perf: 61999.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 62144.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 16, '__PARA__L0_1': 1, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 63641.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 4, '__PARA__L0_1': 32, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 63766.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 4, '__PARA__L0_1': 4, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 65613.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 4, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 65845.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 4, '__PARA__L0_1': 8, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 66262.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 8, '__PARA__L0_1': 4, '__PIPE__L0': 'off', '__TILE__L0': 2}
+perf: 67362.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 4, '__PARA__L0_1': 2, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 74429.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 4, '__PARA__L0_1': 1, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 105642.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 2, '__PARA__L0_1': 31, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 108649.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 2, '__PARA__L0_1': 32, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 108774.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 2, '__PARA__L0_1': 4, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 110621.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 2, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 110853.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 2, '__PARA__L0_1': 8, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 112370.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 2, '__PARA__L0_1': 2, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 118462.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 119437.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 2, '__PARA__L0_1': 1, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 197630.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 31, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 200762.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 32, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 200762.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 4, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 202734.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 16, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 202966.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 8, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 204358.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 2, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 211550.0 for point: {'__PARA__L0': 1, '__PARA__L0_0': 1, '__PARA__L0_1': 1, '__PIPE__L0': 'off', '__TILE__L0': 1}
+

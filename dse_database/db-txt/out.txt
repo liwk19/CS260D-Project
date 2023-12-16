@@ -1,0 +1,51 @@
+now processing aes
+['/home/atefehSZ/RL/original-software-gnn/software-gnn/dse_database/machsuite/databases/v20-original-size/merged/aes_result_new_updated-0.db']
+['/home/atefehSZ/RL/original-software-gnn/software-gnn/dse_database/machsuite/databases/original-size/single-merged/aes_result_new_updated-0.db']
+keys1: 45, keys2: 88
+valid keys1: 15, valid keys2: 44
+number of same keys: 45
+number of same valid keys: 15
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+exists
+################
+aes common 15
+################
+aes had 0 keys in common

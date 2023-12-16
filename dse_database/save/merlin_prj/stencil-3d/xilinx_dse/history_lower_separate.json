@@ -1,0 +1,797 @@
+{
+    "X": {
+        "org_identifier": "X",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 1,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"top level nodes, do not unparse.\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0": {
+        "org_identifier": "X_0",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 2,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 0,
+                "location": 0
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"top level nodes, do not unparse.\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"Insert file: __merlinkernel_stencil3d.c\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"top level nodes, do not unparse.\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0": {
+        "org_identifier": "BuiltInlower_separate_0",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 4,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 9717 for 140507608908320\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"top level nodes, do not unparse.\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0": {
+        "org_identifier": "",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 3,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 0,
+                "location": 0
+            },
+            {
+                "action": 0,
+                "location": 0
+            },
+            {
+                "action": 0,
+                "location": 0
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Insert: SgFunctionDeclaration:void stencil3d(int C0,int C1,int [16384] orig,int [16384] sol) {...}\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"Insert: SgPragmaDeclaration:#pragma ACCEL kernel\\nfrom: SgFunctionDeclaration:void stencil3d(int C0,int C1,int [16384] orig,int [16384] sol) {...}\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"Insert: SgVariableDeclaration:extern int __merlin_include__GB_merlin_type_define_h_0;\\nfrom: SgPragmaDeclaration:#pragma ACCEL kernel\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"top level nodes, do not unparse.\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_0": {
+        "org_identifier": "BuiltInlower_separate_17",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 2,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 11368 for 140507576742896\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVariableDeclaration:extern int __merlin_include__GB_merlin_type_define_h_0;\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_1": {
+        "org_identifier": "X_0_0_0_0",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 0,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 2,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Copy: SgPragmaDeclaration:#pragma ACCEL kernel\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"cached when calculate its brother F_0_1_0_1\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgPragmaDeclaration:#pragma ACCEL kernel\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2": {
+        "org_identifier": "B_0_0_0_1",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 3,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 11025 for 140507567346848\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgFunctionDeclaration:void stencil3d(int C0,int C1,int [16384] orig,int [16384] sol) {...}\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"copy message from bind node\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgFunctionDeclaration:void stencil3d(int C0,int C1,int [16384] orig,int [16384] sol) {...}\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_0": {
+        "org_identifier": "B_0_0_0_1",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 4,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 10509 for 140507559761856\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgFunctionDeclaration:void stencil3d(int C0,int C1,int [16384] orig,int [16384] sol) {...}\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"copy message from bind node\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgFunctionParameterList:int C0,int C1,int [16384] orig,int [16384] sol\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_0_0": {
+        "org_identifier": "B_0_0_0_1_0_0",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 1,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 10421 for 140507555152624\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"cached when calculate its brother X_0_1_0_1_0_0\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"copy message from bind node\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgInitializedName:C0\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_0_1": {
+        "org_identifier": "B_0_0_0_1_0_1",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 1,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 10421 for 140507555152976\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"cached when calculate its brother X_0_1_0_1_0_0\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"copy message from bind node\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgInitializedName:C1\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_0_2": {
+        "org_identifier": "B_0_0_0_1_0_2",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 1,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 10421 for 140507555153328\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"cached when calculate its brother X_0_1_0_1_0_0\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"copy message from bind node\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgInitializedName:orig\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_0_3": {
+        "org_identifier": "B_0_0_0_1_0_3",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 1,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 10421 for 140507555153680\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"cached when calculate its brother X_0_1_0_1_0_0\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"copy message from bind node\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgInitializedName:sol\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_2": {
+        "org_identifier": "",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 1,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 1,
+                "location": 0
+            },
+            {
+                "action": 0,
+                "location": 0
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Replace(1): SgBasicBlock:{}\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"Replace(2): SgBasicBlock:{int sum0;int sum1;int mul0;int mul1;for(int i = 1;i < 32 - 1;i++) {for(int j = ...\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgFunctionDefinition:function definition: void stencil3d(int C0,int C1,int [16384] orig,int [16384] s...\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_2_0": {
+        "org_identifier": "X_0_0_0_1_2_0",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 5,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 2,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Copy: SgBasicBlock:{int sum0;int sum1;int mul0;int mul1;for(int i = 1;i < 32 - 1;i++) {for(int j = ...\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"cached when calculate its brother X_0_1_0_1_2_0\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgBasicBlock:{int sum0;int sum1;int mul0;int mul1;for(int i = 1;i < 32 - 1;i++) {for(int j = ...\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_2_0_4_3_0_3_0_3_0_0_1_0": {
+        "org_identifier": "",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 0,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 11615 for 140507574314976\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVarRefExp:orig\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_2_0_4_3_0_3_0_3_1_0_1_0_0_0_0_0_0": {
+        "org_identifier": "",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 0,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 11615 for 140507574315080\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVarRefExp:orig\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_2_0_4_3_0_3_0_3_1_0_1_0_0_0_0_1_0": {
+        "org_identifier": "",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 0,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 11615 for 140507574315184\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVarRefExp:orig\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_2_0_4_3_0_3_0_3_1_0_1_0_0_0_1_0": {
+        "org_identifier": "",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 0,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 11615 for 140507574315288\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVarRefExp:orig\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_2_0_4_3_0_3_0_3_1_0_1_0_0_1_0": {
+        "org_identifier": "",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 0,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 11615 for 140507574315392\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVarRefExp:orig\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_2_0_4_3_0_3_0_3_1_0_1_0_1_0": {
+        "org_identifier": "",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 0,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 11615 for 140507574315496\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVarRefExp:orig\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_2_0_4_3_0_3_0_3_1_0_1_1_0": {
+        "org_identifier": "",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 0,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 11615 for 140507574315600\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVarRefExp:orig\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_2_0_4_3_0_3_0_3_2_0_1_1": {
+        "org_identifier": "",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 0,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 11615 for 140507574314768\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVarRefExp:C0\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_2_0_4_3_0_3_0_3_3_0_1_1": {
+        "org_identifier": "",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 0,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 11615 for 140507574314872\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVarRefExp:C1\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_0_0_2_2_0_4_3_0_3_0_3_4_0_0_0": {
+        "org_identifier": "",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 0,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 11615 for 140507574315704\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVarRefExp:sol\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1": {
+        "org_identifier": "X_0_0",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 4,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"top level nodes, do not unparse.\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"top level nodes, do not unparse.\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0": {
+        "org_identifier": "X_0_0_0",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 8,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 0,
+                "location": 0
+            },
+            {
+                "action": 1,
+                "location": 1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"top level nodes, do not unparse.\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"Insert: SgFunctionDeclaration:void __merlin_dummy_kernel_pragma() {...}\\nfrom: SgPragmaDeclaration:#pragma ACCEL kernel\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"Delete: SgPragmaDeclaration:#pragma ACCEL kernel\\nfrom: top level nodes, do not unparse.\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"top level nodes, do not unparse.\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_0": {
+        "org_identifier": "BuiltInlower_separate_19",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 3,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 10992 for 140507567347848\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgFunctionDeclaration:void __merlin_dummy_kernel_pragma() {...}\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_0_0": {
+        "org_identifier": "BuiltInlower_separate_18",
+        "user_code_scope_id": "",
+        "applied_index": 0,
+        "children_num": 0,
+        "propagate": 0,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [
+            {
+                "action": 3,
+                "location": -1
+            }
+        ],
+        "messages": [
+            "{\n    \"DebugInfo\": \"Build in 10509 for 140507559762456\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgFunctionParameterList:\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_1": {
+        "org_identifier": "X_0_0_0_1",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 3,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"SgFunctionDeclaration:void stencil3d(int C0,int C1,int [16384] orig,int [16384] sol) {...}\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgFunctionDeclaration:void stencil3d(int C0,int C1,int [16384] orig,int [16384] sol) {...}\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_1_0": {
+        "org_identifier": "X_0_0_0_1_0",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 4,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"SgFunctionParameterList:int C0,int C1,int [16384] orig,int [16384] sol\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgFunctionParameterList:int C0,int C1,int [16384] orig,int [16384] sol\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_1_0_0": {
+        "org_identifier": "X_0_0_0_1_0_0",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 1,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"cached when calculate its brother X_0_1_0_1_0_0\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgInitializedName:C0\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_1_0_1": {
+        "org_identifier": "X_0_0_0_1_0_1",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 1,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"cached when calculate its brother X_0_1_0_1_0_0\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgInitializedName:C1\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_1_0_2": {
+        "org_identifier": "X_0_0_0_1_0_2",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 1,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"cached when calculate its brother X_0_1_0_1_0_0\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgInitializedName:orig\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_1_0_3": {
+        "org_identifier": "X_0_0_0_1_0_3",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 1,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"cached when calculate its brother X_0_1_0_1_0_0\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgInitializedName:sol\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_1_2": {
+        "org_identifier": "X_0_0_0_1_2",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 1,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"cached when calculate its brother X_0_1_0_1_0\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgFunctionDefinition:function definition: void stencil3d(int C0,int C1,int [16384] orig,int [16384] s...\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_1_2_0": {
+        "org_identifier": "X_0_0_0_1_2_0",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 5,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"cached when calculate its brother X_0_1_0_1_2_0\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgBasicBlock:{int sum0;int sum1;int mul0;int mul1;for(int i = 1;i < 32 - 1;i++) {for(int j = ...\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_2": {
+        "org_identifier": "X_0_0_0_2",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 2,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"cached when calculate its brother F_0_1_0_1\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVariableDeclaration:int a[16384];\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_3": {
+        "org_identifier": "X_0_0_0_3",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 2,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"cached when calculate its brother F_0_1_0_1\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVariableDeclaration:int b[16384];\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_4": {
+        "org_identifier": "X_0_0_0_4",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 2,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"cached when calculate its brother F_0_1_0_1\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVariableDeclaration:int c[2];\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_5": {
+        "org_identifier": "X_0_0_0_5",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 2,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"cached when calculate its brother F_0_1_0_1\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVariableDeclaration:int aa[16384];\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_6": {
+        "org_identifier": "X_0_0_0_6",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 2,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"cached when calculate its brother F_0_1_0_1\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVariableDeclaration:int bb[16384];\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    },
+    "X_0_1_0_7": {
+        "org_identifier": "X_0_0_0_7",
+        "user_code_scope_id": "",
+        "applied_index": -1,
+        "children_num": 2,
+        "propagate": 1,
+        "no_hierarchy": 0,
+        "qor_merge_mode": "",
+        "parallel": 0,
+        "histories": [],
+        "messages": [
+            "{\n    \"DebugInfo\": \"cached when calculate its brother F_0_1_0_1\",\n    \"passname\": \"lower_separate\"\n}",
+            "{\n    \"DebugInfo\": \"SgVariableDeclaration:int cc[2];\",\n    \"passname\": \"lower_separate\"\n}"
+        ]
+    }
+}

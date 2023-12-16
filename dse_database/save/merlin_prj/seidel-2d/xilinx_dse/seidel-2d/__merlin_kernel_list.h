@@ -1,0 +1,1 @@
+//kernel_seidel_2d=__merlinkernel_kernel_seidel_2d.c

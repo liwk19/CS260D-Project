@@ -1,0 +1,33 @@
+['./machsuite/databases/original-size/bottleneck/aes_result.db']
+6974.0 {'__PIPE__L1': '', '__PIPE__L2': 'flatten', '__TILE__L2': 8}
+6819.0 {'__PIPE__L1': 'flatten', '__PIPE__L2': 'flatten', '__TILE__L2': 1}
+6780.0 {'__PIPE__L1': 'flatten', '__PIPE__L2': 'flatten', '__TILE__L2': 2}
+6630.0 {'__PIPE__L1': 'flatten', '__PIPE__L2': 'flatten', '__TILE__L2': 4}
+6630.0
+perf: 6630.0 for point: {'__PIPE__L1': 'flatten', '__PIPE__L2': 'flatten', '__TILE__L2': 4}
+perf: 6668.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': 'flatten', '__TILE__L2': 4}
+perf: 6780.0 for point: {'__PIPE__L1': 'flatten', '__PIPE__L2': 'flatten', '__TILE__L2': 2}
+perf: 6818.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': 'flatten', '__TILE__L2': 2}
+perf: 6819.0 for point: {'__PIPE__L1': 'flatten', '__PIPE__L2': 'flatten', '__TILE__L2': 1}
+perf: 6819.0 for point: {'__PIPE__L1': 'flatten', '__PIPE__L2': 'flatten', '__TILE__L2': 13}
+perf: 6832.0 for point: {'__PIPE__L1': 'flatten', '__PIPE__L2': 'off', '__TILE__L2': 1}
+perf: 6832.0 for point: {'__PIPE__L1': 'flatten', '__PIPE__L2': 'off', '__TILE__L2': 13}
+perf: 6853.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': '', '__TILE__L2': 13} (early reject since the cg pipelining is not applied)
+perf: 6853.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': '', '__TILE__L2': 1} (early reject since the cg pipelining is not applied)
+perf: 6853.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': 'off', '__TILE__L2': 1}
+perf: 6853.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': 'off', '__TILE__L2': 13}
+perf: 6856.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': 'flatten', '__TILE__L2': 1}
+perf: 6856.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': 'flatten', '__TILE__L2': 13}
+perf: 6962.0 for point: {'__PIPE__L1': 'flatten', '__PIPE__L2': 'off', '__TILE__L2': 4}
+perf: 6974.0 for point: {'__PIPE__L1': '', '__PIPE__L2': 'flatten', '__TILE__L2': 8}
+perf: 6974.0 for point: {'__PIPE__L1': 'flatten', '__PIPE__L2': 'flatten', '__TILE__L2': 8}
+perf: 6999.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': '', '__TILE__L2': 4} (early reject since the cg pipelining is not applied)
+perf: 6999.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': 'off', '__TILE__L2': 4} (early reject since the cg pipelining is not applied)
+perf: 7112.0 for point: {'__PIPE__L1': 'flatten', '__PIPE__L2': 'off', '__TILE__L2': 2}
+perf: 7149.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': '', '__TILE__L2': 2} (early reject since the cg pipelining is not applied)
+perf: 7149.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': 'off', '__TILE__L2': 2} (early reject since the cg pipelining is not applied)
+perf: 7184.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': 'flatten', '__TILE__L2': 8}
+perf: 7306.0 for point: {'__PIPE__L1': 'flatten', '__PIPE__L2': 'off', '__TILE__L2': 8}
+perf: 7692.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': 'off', '__TILE__L2': 8} (early reject since the cg pipelining is not applied)
+perf: 7692.0 for point: {'__PIPE__L1': 'off', '__PIPE__L2': '', '__TILE__L2': 8} (early reject since the cg pipelining is not applied)
+

@@ -1,0 +1,53 @@
+['./machsuite/databases/original-size/exhaustive/spmv-crs_result_crs.db']
+992.0 {'__PARA__L0': 1, '__PIPE__L0': '', '__TILE__L0': 1}
+880.0 {'__PARA__L0': 26, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+660.0 {'__PARA__L0': 32, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+660.0
+perf: 0.0 for point: {'__PARA__L0': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 494}
+perf: 0.0 for point: {'__PARA__L0': 1, '__PIPE__L0': 'off', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 1, '__PIPE__L0': 'off', '__TILE__L0': 494}
+perf: 0.0 for point: {'__PARA__L0': 13, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 16, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 19, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 2, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 26, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 32, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 4, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 0.0 for point: {'__PARA__L0': 8, '__PIPE__L0': 'flatten', '__TILE__L0': 1}
+perf: 660.0 for point: {'__PARA__L0': 32, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+perf: 880.0 for point: {'__PARA__L0': 26, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+perf: 992.0 for point: {'__PARA__L0': 1, '__PIPE__L0': '', '__TILE__L0': 1}
+perf: 992.0 for point: {'__PARA__L0': 1, '__PIPE__L0': '', '__TILE__L0': 494}
+perf: 1100.0 for point: {'__PARA__L0': 16, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+perf: 1100.0 for point: {'__PARA__L0': 19, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+perf: 1100.0 for point: {'__PARA__L0': 32, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 1320.0 for point: {'__PARA__L0': 13, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+perf: 1320.0 for point: {'__PARA__L0': 26, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 1760.0 for point: {'__PARA__L0': 19, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 1980.0 for point: {'__PARA__L0': 16, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 1980.0 for point: {'__PARA__L0': 32, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 1980.0 for point: {'__PARA__L0': 8, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+perf: 2420.0 for point: {'__PARA__L0': 13, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 2420.0 for point: {'__PARA__L0': 26, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 3300.0 for point: {'__PARA__L0': 19, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 3740.0 for point: {'__PARA__L0': 16, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 3740.0 for point: {'__PARA__L0': 4, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+perf: 3740.0 for point: {'__PARA__L0': 8, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 4620.0 for point: {'__PARA__L0': 13, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 7040.0 for point: {'__PARA__L0': 2, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+perf: 7040.0 for point: {'__PARA__L0': 4, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 7040.0 for point: {'__PARA__L0': 8, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 13860.0 for point: {'__PARA__L0': 1, '__PIPE__L0': '', '__TILE__L0': 8}
+perf: 13860.0 for point: {'__PARA__L0': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 8}
+perf: 13860.0 for point: {'__PARA__L0': 1, '__PIPE__L0': 'off', '__TILE__L0': 8}
+perf: 13860.0 for point: {'__PARA__L0': 2, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 13860.0 for point: {'__PARA__L0': 4, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 27500.0 for point: {'__PARA__L0': 1, '__PIPE__L0': '', '__TILE__L0': 4}
+perf: 27500.0 for point: {'__PARA__L0': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 4}
+perf: 27500.0 for point: {'__PARA__L0': 1, '__PIPE__L0': 'off', '__TILE__L0': 4}
+perf: 27500.0 for point: {'__PARA__L0': 2, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 54780.0 for point: {'__PARA__L0': 1, '__PIPE__L0': '', '__TILE__L0': 2}
+perf: 54780.0 for point: {'__PARA__L0': 1, '__PIPE__L0': 'flatten', '__TILE__L0': 2}
+perf: 54780.0 for point: {'__PARA__L0': 1, '__PIPE__L0': 'off', '__TILE__L0': 2}
+

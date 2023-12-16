@@ -1,0 +1,4 @@
+
+WARNING: [PROCS-216] Found an unknown pragma: scop (trmm.c:85)
+
+WARNING: [PROCS-216] Found an unknown pragma: endscop (trmm.c:93)
